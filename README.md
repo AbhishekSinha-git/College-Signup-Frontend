@@ -41,8 +41,8 @@ College-Signup-Portal/
 ---
 
 ## 🎨 **Screenshots**
-![Signup Page Preview](![Page ss](https://github.com/user-attachments/assets/87ed0a3f-53c8-4fa5-8a05-f9a8dbdacab6)
-)
+![Signup Page Preview](https://github.com/user-attachments/assets/87ed0a3f-53c8-4fa5-8a05-f9a8dbdacab6)
+
 
 ---
 
