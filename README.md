@@ -90,7 +90,7 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 ---
 
 ## 📧 **Contact**
-For any inquiries, contact us at **[your-email@example.com](mailto:Abhishekksingh68@gmail.com)** or visit our website **[Symbiosis Institute of Technology](https://www.siu.edu.in/)**.
+For any inquiries, contact us at **[Abhishek Sinha](mailto:Abhishekksingh68@gmail.com)** or visit our website **[Symbiosis Institute of Technology](https://www.siu.edu.in/)**.
 
 ---
 
