@@ -1,5 +1,7 @@
 # **College Signup Portal**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 A **modern and responsive** student registration portal built with **React.js** and **Tailwind CSS** for **Symbiosis Institute of Technology**. This project provides an intuitive and user-friendly experience for students to sign up easily.
 
 ---
